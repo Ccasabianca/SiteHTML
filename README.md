@@ -1,2 +1,2 @@
 # SiteHTML
- Site concçu uniquement en HTML
+ Site conçu uniquement en HTML
